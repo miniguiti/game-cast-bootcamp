@@ -2,7 +2,7 @@
 ![readme-bootcamp](https://github.com/miniguiti/sis-bootcamp-js-vanilla-sptech/assets/37668247/e9457ff6-7683-477d-8f7b-805f1287c879)
 
 
-# SPTECH - Bootcamp Integracao com JS Vanilla
+# SPTECH - Bootcamp Integracao com JS Vanilla 📎
 Desenvolvendo habilidades em programação full-stack com o bootcamp de Front-end e Back-end integrado em JavaScript Vanilla!
 
 ## 🔧 Linguagens / API's
@@ -16,14 +16,21 @@ Desenvolvendo habilidades em programação full-stack com o bootcamp de Front-en
 
 ## Tópicos abordados 
 
-### Primeira Parte
+### ✅ Primeira Parte
 1. Clonando repositório e conhecendo projeto
 2. Criando MockAPI (https://mockapi.io/projects)
 3. Utilizando Insomnia para testar as requisições
-1. Realizando requisição GET e utilizando os dados retornados na tela
 
-## Preview
-![Captura de tela 2024-04-04 165128](https://github.com/miniguiti/sis-bootcamp-js-vanilla-sptech/assets/37668247/e8cd5ef1-1b82-4806-a68a-88bc7b57843c)
+### ✅ Segunda Parte
+1. Configurando Ambiente
+2. Entendendo o fetch 
+3. Entendendo Promisses
+4. Consumindo endpoint (GET)
 
+### ✅ Terceira Parte
+1. Configurando Ambiente
+2. Utilizando o retorno da API para criar elementos no HTML
+3. Ajustando a responsividade
 
-
+## 💻 Preview
+![preview](https://github.com/miniguiti/game-cast-bootcamp/assets/37668247/b8f804cd-ca46-4f77-bf2c-820abbc3eed2)
