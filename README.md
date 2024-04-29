@@ -32,5 +32,14 @@ Desenvolvendo habilidades em programação full-stack com o bootcamp de Front-en
 2. Utilizando o retorno da API para criar elementos no HTML
 3. Ajustando a responsividade
 
+### ✅ Quarta Parte
+1. Configurando Ambiente
+2. Dicas de estilização + criação de formulário com Bootstrap
+3. Cadastrando agenda de game na API (POST)
+
 ## 💻 Preview
-![preview](https://github.com/miniguiti/game-cast-bootcamp/assets/37668247/b8f804cd-ca46-4f77-bf2c-820abbc3eed2)
+
+  ### Agenda de Games
+  ![preview](https://github.com/miniguiti/game-cast-bootcamp/assets/37668247/b8f804cd-ca46-4f77-bf2c-820abbc3eed2)
+  ### Cadastro:
+  ![Captura de tela 2024-04-29 192631](https://github.com/miniguiti/game-cast-bootcamp/assets/37668247/a3db4040-012a-47f0-8ff3-b441914082ec)
