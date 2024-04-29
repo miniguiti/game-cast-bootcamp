@@ -1,5 +1,5 @@
 async function buscar() {
-    const resposta = await fetch("https://660f44b0356b87a55c510db2.mockapi.io/agendas");
+    const resposta = await fetch("COLE_SUA_URL_AQUI");
     const respostaDadosAgenda = await resposta.json();
 
     console.log("Resposta: ", respostaDadosAgenda);
