@@ -12,7 +12,7 @@ async function buscar() {
             <div class="cardItem">
                 <div class="dataGame"> 
                     <img src="../imagens/calendar-solid.svg" alt=""> 
-                    ${dataAgenda.getDay()}/${dataAgenda.getMonth()}/${dataAgenda.getFullYear()} 
+                    ${dataAgenda.getDate()}/${dataAgenda.getMonth() + 1}/${dataAgenda.getFullYear()} 
                 </div>
                 <img class="img-background" src="${itemAgenda.urlImagem}" alt="">
                 <div class="descricao">
